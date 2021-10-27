@@ -5,7 +5,12 @@
   "bootNodes": [
     "/dns/heiko-bootnode-0.parallel.fi/tcp/30333/p2p/12D3KooWLUTzbrJJDowUKMPfEZrDY6eH8HXvm8hrG6YrdUmdrKPz",
     "/dns/heiko-bootnode-1.parallel.fi/tcp/30333/p2p/12D3KooWEckTASdnkQC8MfBNnzKGfQJmdmzCBWrwra26nTqY4Hmu",
-    "/dns/heiko-bootnode-2.parallel.fi/tcp/30333/p2p/12D3KooWFJe4LfS15nTBUduq3cMKmHEWwKYrJFmMnAa7wT5W1eZE"
+    "/dns/heiko-bootnode-2.parallel.fi/tcp/30333/p2p/12D3KooWFJe4LfS15nTBUduq3cMKmHEWwKYrJFmMnAa7wT5W1eZE",
+    "/dns/heiko-bootnode-3.parallel.fi/tcp/30333/p2p/12D3KooWA8jSwEbscptbwv1KqY7d7n2qURbd6zUaaPvzTVBMMgSd",
+    "/dns/heiko-bootnode-4.parallel.fi/tcp/30333/p2p/12D3KooWPmc7C5qkcxLzw5qWuxHM4SQs16w9Ecdy6b6zpPzpuPhX",
+    "/dns/heiko-bootnode-5.parallel.fi/tcp/30333/p2p/12D3KooWBPS34UM3bbv82hfL3LJq7eioRjFSJp6JArGnEj4ZhukN",
+    "/dns/heiko-bootnode-6.parallel.fi/tcp/30333/p2p/12D3KooWNQD9ejZBon81yJuLeV6PWekVqVPX6B72UPepQzWTh8mX",
+    "/dns/heiko-bootnode-7.parallel.fi/tcp/30333/p2p/12D3KooWL63x8ZPkY2ZekUqyvyNwsakwbuy8Rq3Dt9tJcxw5NFTt"
   ],
   "telemetryEndpoints": [
     [
