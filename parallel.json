@@ -3,14 +3,8 @@
   "id": "parallel",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/bootnode-0.parallel.fi/tcp/30333/p2p/12D3KooWQBJuhrsg8ayrFDW2hCcz3bGHx3tVkTeGUXS7e8D3TaEE",
     "/dns/bootnode-1.parallel.fi/tcp/30333/p2p/12D3KooWA3ngBk5UuAvtvANXRJSTjdCT9bz7AcdBqmnR64m3tRWb",
-    "/dns/bootnode-2.parallel.fi/tcp/30333/p2p/12D3KooWRmZsTs77aMK5WR3VwqWPeQVnm8JgEKcX8EykcCBnibFu",
-    "/dns/bootnode-3.parallel.fi/tcp/30333/p2p/12D3KooWDcN56Jwh96c4od3zc9RMSQciBASNd1vgiVfTZbCxxUKE",
-    "/dns/bootnode-4.parallel.fi/tcp/30333/p2p/12D3KooWKh8KPixgUcxuhweCxnd8DpXGhigi4izLLf5g88KtDBs9",
-    "/dns/bootnode-5.parallel.fi/tcp/30333/p2p/12D3KooWGxnMnE1AFriohESDGQnpYBzbxBpRDf3MFNu8yuobJBbF",
-    "/dns/bootnode-6.parallel.fi/tcp/30333/p2p/12D3KooWDXwaaUm6LBAkDbM4mZDQ6HooWA99rm7a6fWiLq5hHwBA",
-    "/dns/bootnode-7.parallel.fi/tcp/30333/p2p/12D3KooWKefwJNzBJzXxdL8wP59k5zfZZ5SBv5NUWeEyYcwugtK9"
+    "/dns/bootnode-5.parallel.fi/tcp/30333/p2p/12D3KooWGxnMnE1AFriohESDGQnpYBzbxBpRDf3MFNu8yuobJBbF"
   ],
   "telemetryEndpoints": [
     [
